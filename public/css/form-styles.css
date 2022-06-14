@@ -1,0 +1,18 @@
+#signupForm label.error {
+  margin-left: 10px;
+  width: auto;
+  display: inline;
+}
+
+label.error, label.error {
+  color: red;
+  font-style: italic;
+}
+label.error {
+  margin-left: 103px;
+  width: 220px;
+}
+
+input.error {
+  border: 1px dotted red;
+}
